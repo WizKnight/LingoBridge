@@ -1,0 +1,19 @@
+fastapi                     # Framework for building APIs
+uvicorn                     # ASGI server for FastAPI
+transformers                # Hugging Face Transformers library for pre-trained models
+datasets                    # Hugging Face Datasets library for loading and processing datasets
+torch                       # PyTorch for deep learning models
+numpy                       # Library for numerical operations
+pandas                      # Data analysis and manipulation
+scikit-learn                # Machine learning and evaluation metrics
+sentencepiece               # Tokenizer library used by some translation models
+langdetect                  # Language detection library
+sacrebleu==2.3.1            # Standard BLEU metric for translation evaluation
+pydantic                    # Data validation and settings management for FastAPI
+apache-airflow              # Workflow Automatation and Scheduling
+loguru                      # Logging and Monitoring
+pytest                      # Testing framework
+black                       # Code formatter
+flake8                      # Linting tool
+docker
+ipykernel
